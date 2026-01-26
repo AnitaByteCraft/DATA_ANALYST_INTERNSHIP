@@ -1,0 +1,20 @@
+# Ignore datasets
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.pdf
+
+# Ignore temp & system files
+~$*
+.DS_Store
+Thumbs.db
+
+# Ignore large data folders
+archive/
+data/
+dataset/
+datasets/
